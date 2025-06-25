@@ -8,7 +8,6 @@ public class Calculadora {
 		System.out.println(teste1.subtrair(1, 2));
 		System.out.println(teste1.mult(1, 2));
 		System.out.println(teste1.dividir(1, 2));
-		
 	}
 
 }
